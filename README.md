@@ -59,8 +59,8 @@ This project focuses on detecting faults in ball bearings through signal process
 
 | Metric        | Value     |
 |---------------|-----------|
-| F1 Score      | *XX.XX*   |
-| Accuracy      | *YY.YY%*  |
+| F1 Score      |    95.29%
+| Accuracy      | 95.71%  
 > Replace with actual results after model evaluation
 
 🧠 Skills Demonstrated
